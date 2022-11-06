@@ -11,6 +11,7 @@
 |         |                    |
 
 :white_check_mark: : Supported
+
 :x:                : Not Supported
 
 ## Reporting a Vulnerability
